@@ -2,6 +2,9 @@
 
 Hi! I am Sumit Sinha, a web developer focused on crafting great web experiences. Programming have been my passion since the days I started working with computers but I found myself into web development since 2018.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit298)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **sumit298/sumit298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,11 +6,11 @@ Hi! I am Sumit Sinha, a web developer focused on crafting great web experiences.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / JAVA
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit298)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit298&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit298&hide=contribs,prs)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit298&hide=contribs,prs) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit298&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit298&show_icons=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit298&layout=compact)](https://github.com/sumit298/github-readme-stats)
 

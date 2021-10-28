@@ -1,7 +1,5 @@
 ### Hi there 👋, My name is Sumit
 #### Web Developer
-<img src="![image](https://user-images.githubusercontent.com/44542669/139339739-e14c78c8-e778-4503-b657-dfb9c86fd982.png)" alt="mypic"/>
-
 
 Hi! I am Sumit Sinha, a web developer focused on crafting great web experiences. Programming have been my passion since the days I started working with computers but I found myself into web development since 2018.
 

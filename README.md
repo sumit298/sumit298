@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Sumit
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](![image](https://user-images.githubusercontent.com/44542669/139338074-3308f5da-57a6-43f6-a5bb-71106addbef2.png))
 
 Hi! I am Sumit Sinha, a web developer focused on crafting great web experiences. Programming have been my passion since the days I started working with computers but I found myself into web development since 2018.
 

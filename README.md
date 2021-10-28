@@ -6,6 +6,9 @@ Hi! I am Sumit Sinha, a web developer focused on crafting great web experiences.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / JAVA
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit298)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 

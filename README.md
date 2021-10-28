@@ -1,10 +1,8 @@
 ### Hi there 👋, My name is Sumit
 #### Web Developer
-![Web Developer](![image](https://user-images.githubusercontent.com/44542669/139338074-3308f5da-57a6-43f6-a5bb-71106addbef2.png))
+![Web Developer](![image](https://user-images.githubusercontent.com/44542669/139339433-e187f54c-7a74-4169-a02b-25c96ce61584.png))
 
 Hi! I am Sumit Sinha, a web developer focused on crafting great web experiences. Programming have been my passion since the days I started working with computers but I found myself into web development since 2018.
-
-Skills: VUE JS / REACT / JS / HTML / CSS / JAVA
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumit298&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

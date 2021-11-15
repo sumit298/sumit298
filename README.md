@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi! I am Sumit Sinha, a web developer focused on crafting great web experiences. Programming have been my passion since the days I started working with computers but I found myself into web development since 2018.
+ I am Sumit Sinha, a web developer focused on crafting great web experiences. Programming have been my passion since the days I started working with computers but I found myself into web development since 2018.
 
 ## My Weapons 🌟
 

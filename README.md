@@ -29,9 +29,7 @@ What truly sets my heart on fire is the wondrous world of Machine Learning. 🚀
 
 <br />
 
-## 📈 Charting My GitHub Adventures
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=sumit298&theme=react-dark)
 
 <br>
 

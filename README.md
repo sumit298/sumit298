@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- I am Sumit Sinha, a web developer focused on crafting great web experiences. Programming have been my passion since the days I started working with computers but I found myself into web development since 2020.
+Hello there! I'm a Web Developer who is enthusiastic about the dynamic world of technology. Currently, I am gaining valuable hands-on experience as a web developer intern, honing my skills in both front-end and back-end development. Apart from my internship, I have an insatiable curiosity for Machine Learning, which I pursue passionately. Exploring the vast possibilities of ML has become a personal pursuit for me, as I am intrigued by its potential to solve complex problems and enhance user experiences. With a solid foundation in web development and a deepening knowledge of Machine Learning, I'm eager to contribute my skills to projects that bridge the two domains. I'm on the lookout for opportunities to apply my expertise, learn from industry professionals, and make a meaningful impact in the tech industry.
 
 ## My Weapons 🌟
 

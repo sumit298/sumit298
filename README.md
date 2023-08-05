@@ -1,4 +1,4 @@
-# Hey there, fellow tech explorer! 👋
+# Hey there! 👋
 
 Welcome to my corner of the digital universe! I'm Sumit, a passionate Web Developer on a thrilling journey through the dynamic realms of technology. Currently, I'm gaining invaluable hands-on experience as a web developer intern, crafting remarkable user experiences with my expertise in both front-end and back-end development. But that's just the tip of the iceberg!
 

@@ -43,7 +43,7 @@ Currently working as a web developer, I've developed a strong foundation in mode
 - Building full-stack applications with React and Node.js
 - Exploring ML integration in web applications
 - Contributing to open-source projects
-- Expanding knowledge in cloud technologies and DevOps
+- Expanding knowledge in cloud technologies
 
 ## Let's Connect
 
